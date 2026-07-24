@@ -1,7 +1,7 @@
 {
   "beta": {
-    "latestVersion": "1.0.1",
-    "latestVersionCode": 2,
+    "latestVersion": "99.0.1",
+    "latestVersionCode": 99999,
     "enabled": true,
     "reminderHours": 24,
     "title": "Mise à jour bêta disponible",
