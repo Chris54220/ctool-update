@@ -1,0 +1,18 @@
+{
+  "beta": {
+    "latestVersion": "1.0.0",
+    "latestVersionCode": 1,
+    "enabled": false,
+    "reminderHours": 24,
+    "title": "Mise à jour bêta disponible",
+    "message": "Une nouvelle version bêta de CTool est disponible sur le Play Store."
+  },
+  "production": {
+    "latestVersion": "1.0.0",
+    "latestVersionCode": 1,
+    "enabled": false,
+    "reminderHours": 24,
+    "title": "Mise à jour disponible",
+    "message": "Une nouvelle version de CTool est disponible sur le Play Store."
+  }
+}
