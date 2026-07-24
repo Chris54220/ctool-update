@@ -3,7 +3,7 @@
     "latestVersion": "1.1.4",
     "latestVersionCode": 31,
     "enabled": true,
-    "reminderHours": 24,
+    "reminderHours": 0,
     "title": "Mise à jour bêta disponible",
     "message": "Une nouvelle version bêta de CTool est disponible sur le Play Store.",
     "updatedAt": "2026-07-24T05:42:53.805Z"
