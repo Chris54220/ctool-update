@@ -11,10 +11,10 @@
   "production": {
     "latestVersion": "1.1.7",
     "latestVersionCode": 29,
-    "enabled": false,
+    "enabled": true,
     "reminderHours": 24,
     "title": "Mise à jour disponible",
     "message": "Une nouvelle version de CTool est disponible sur le Play Store.",
-    "updatedAt": "2026-08-06T20:07:21.085Z"
+    "updatedAt": "2026-08-08T08:27:33.179Z"
   }
 }
