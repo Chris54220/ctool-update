@@ -1,12 +1,12 @@
 {
   "beta": {
     "latestVersion": "1.2.0-beta",
-    "latestVersionCode": 92,
+    "latestVersionCode": 93,
     "enabled": true,
     "reminderHours": 0,
     "title": "Mise à jour bêta disponible",
     "message": "Une nouvelle version bêta de CTool est disponible sur le Play Store.",
-    "updatedAt": "2026-10-12T05:35:25.413Z"
+    "updatedAt": "2026-10-12T07:31:38.868Z"
   },
   "production": {
     "latestVersion": "1.2.0",
