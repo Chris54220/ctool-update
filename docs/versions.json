@@ -1,3 +1,4 @@
+
 {
   "beta": {
     "latestVersion": "1.2.0",
@@ -16,5 +17,30 @@
     "title": "Mise à jour disponible",
     "message": "Une nouvelle version de CTool est disponible sur le Play Store.",
     "updatedAt": "2026-09-27T03:54:05.753Z"
+  },
+  "android": {
+    "beta": {
+      "enabled": true,
+      "updateMode": "flexible",
+      "reminderHours": 0,
+      "title": "Mise à jour bêta disponible",
+      "message": "Une nouvelle version bêta de CTool est disponible. Google Play peut la télécharger pendant que vous utilisez l'application."
+    },
+    "production": {
+      "enabled": false,
+      "updateMode": "flexible",
+      "reminderHours": 24,
+      "title": "Mise à jour disponible",
+      "message": "Une nouvelle version de CTool est disponible. Google Play peut la télécharger pendant que vous utilisez l'application."
+    }
+  },
+  "ios": {
+    "beta": {
+      "enabled": false,
+      "latestBuildNumber": 3,
+      "reminderHours": 24,
+      "title": "Nouvelle version bêta disponible",
+      "message": "Une nouvelle build de CTool Bêta est disponible dans TestFlight."
+    }
   }
 }
