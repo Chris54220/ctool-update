@@ -36,9 +36,9 @@
   },
   "ios": {
     "beta": {
-      "enabled": false,
-      "latestBuildNumber": 3,
-      "reminderHours": 24,
+      "enabled": true,
+      "latestBuildNumber": 5,
+      "reminderHours": 0,
       "title": "Nouvelle version bêta disponible",
       "message": "Une nouvelle build de CTool Bêta est disponible dans TestFlight."
     }
