@@ -11,7 +11,7 @@
   },
   "production": {
     "latestVersion": "1.2.0",
-    "latestVersionCode": 36,
+    "latestVersionCode": 37,
     "enabled": true,
     "reminderHours": 24,
     "title": "Mise à jour disponible",
